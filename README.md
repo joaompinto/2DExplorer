@@ -22,7 +22,7 @@ git clone https://github.com/joaompinto/2DExplorer
 
 ## Play
 ```sh
-cd 2DExplorer/Game ; python Main.py
+cd 2DExplorer/Game ; python3 Main.py
 ```
 
 ## Controls
