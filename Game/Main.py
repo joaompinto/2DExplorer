@@ -247,7 +247,7 @@ def loadPictures(path):#loads every picture in a directory
     return images
 itemList = ItemList.itemList(loadPictures('data/images/Items/'))
 weaponPics = loadPictures('data/images/Weapons/')#empty list of weapons
-armorPics = loadPictures('data/Images/Armor/')
+armorPics = loadPictures('data/images/Armor/')
 
 play = False#play is a boolean for whether the play has ppressed play
 
